@@ -1,0 +1,17 @@
+.odd{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+}
+.oddly cool{
+    font-size: 64px;
+}
+#num2{
+    color: aqua;
+    font-size: 36px;
+}
+#num4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font: bold;
+}
